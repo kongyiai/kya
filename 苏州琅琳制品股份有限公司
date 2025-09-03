@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+  <head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>康文昌的在线HTML 教学小工具</title>
+
+    <style>  
+
+      body {
+
+        margin: 0;
+
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+
+    <div style="
+
+    background-color: #d1f1e1;
+
+    text-align: center;
+
+    padding: 40px;
+
+    ">
+
+      <img src="https://tc-new.z.wiki/autoupload/f/KCPs0PldssTIw8mnOy_VmuXH61lIP1He7XoKPQqm2oqyl5f0KlZfm6UsKj-HyTuv/20250902/AYpQ/1000X2164/20220807200115_74a22.thumb.1000_0.jpeg/webp" alt="五条悟" width="500" height="800" 
+
+    </div>
+
+    <div style="
+
+     max-width: 700;
+
+     margin: 30px auto;
+
+     padding: 15px;
+
+     line-height: 1.7;
+
+     text-align: center;
+
+     text-indent:33px;
+
+     background-color: #d1c1e3;
+
+     ">
+
+       <p><font size="5">大丈夫だいじょうぶ僕ぼく最強さいきょうだから</font></p>
+       <p>放心啦，我可是最强的</p>
+
+    </div>
+
+    <div style="
+
+    background-color: #d1e1e1;
+
+    text-align: center;
+
+    padding: 40px;
+
+    font-size:12px"
+
+    >
+
+    <p>神秘网站</p>
+
+    <a href="https://www.bilibili.com/">嘻嘻</a>
+
+    </div>
+
+  </body>
+
+</html>
